@@ -1,0 +1,6 @@
+@OptionsPatternExample_HostAddress = http://localhost:5066
+
+GET {{OptionsPatternExample_HostAddress}}/options-pattern/
+Accept: application/json
+
+###
